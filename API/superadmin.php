@@ -1,5 +1,5 @@
 <?php
-include('db_config.php');
+include('databaseconfig.php');
 
 // Super Admin has full access (Add, Edit, Delete users)
 $sql = "SELECT * FROM users";
