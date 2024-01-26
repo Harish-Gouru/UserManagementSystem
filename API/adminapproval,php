@@ -1,5 +1,5 @@
 <?php
-include('db_config.php');
+include('databaseconfig.php');
 
 // Assume the super admin approves users manually in the admin_approval.php page
 
